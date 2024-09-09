@@ -3,6 +3,8 @@ Tailwind Component Link: https://flowbite.com/docs/components/forms/
 Cheetsheet / DOcumentation: https://flowbite.com/docs/components/forms/
 
 
+git clone https://github.com/bhawanakhadka741/Service-Finder.git
+
 
 ### Step-1 Copy and Paste in Terminal
   git config --global user.email "bcaincbhawana2079@gmail.com"
